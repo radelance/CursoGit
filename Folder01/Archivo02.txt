@@ -2,3 +2,6 @@
 Contenido del archivo 02
 
 Ahora se modifica el archivo 02
+
+Cambio al archivo 02
+
